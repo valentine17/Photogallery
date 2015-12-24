@@ -1,0 +1,22 @@
+﻿<Page x:Class="Foto_Galery.Page1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="460" d:DesignWidth="960"
+	Title="Page1">
+
+    <Grid Height="460" Width="960">
+        <Label x:Name="Log_LB" Content="Your login:" Margin="442,70,443,0" Height="25" VerticalContentAlignment="Center" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="Log_TB" Margin="400,100,400,0" TextWrapping="Wrap" VerticalContentAlignment="Center" Height="22" VerticalAlignment="Top" HorizontalContentAlignment="Center"/>
+        <Label x:Name="Pass_LB" Content="Your password:" Margin="431,130,427,0" Height="25" VerticalContentAlignment="Center" VerticalAlignment="Top" FontWeight="Bold"/>
+        <TextBox x:Name="Pass_TB" HorizontalAlignment="Left" Height="22" Margin="400,160,0,0" TextWrapping="Wrap" Width="160" VerticalContentAlignment="Center" VerticalAlignment="Top" HorizontalContentAlignment="Center"/>
+        <Label x:Name="Code_LB" Content="Label" Margin="400,190,490,0" Height="25" VerticalContentAlignment="Center" VerticalAlignment="Top" FontWeight="Bold" Foreground="#FF7E0A0A"/>
+        <TextBox x:Name="Code_TB" HorizontalAlignment="Left" Height="22" Margin="475,193,0,0" TextWrapping="Wrap" Width="55" RenderTransformOrigin="0.551,-0.217" VerticalContentAlignment="Center" VerticalAlignment="Top" HorizontalContentAlignment="Center" MaxLength="6"/>
+        <Button x:Name="Reg_But" Content="Registred!" Margin="400,235,485,0" Height="25" VerticalContentAlignment="Center" VerticalAlignment="Top" Click="Button_Click_2"/>
+        <GroupBox Header="Registration in it is Galery:" Margin="320,35,320,0" VerticalAlignment="Top" Height="260"/>
+        <Button x:Name="Obnov" Content="@" HorizontalAlignment="Left" Margin="535,193,0,0" VerticalAlignment="Top" Width="25" Height="22" Click="Button_Click"/>
+        <Button Content="Exit" HorizontalAlignment="Left" Margin="485,235,0,0" VerticalAlignment="Top" Width="75" Height="25" Click="Button_Click_1"/>
+    </Grid>
+</Page>

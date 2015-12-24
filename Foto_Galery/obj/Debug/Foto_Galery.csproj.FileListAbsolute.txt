@@ -1,0 +1,68 @@
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery\Foto_Galery\bin\Debug\Foto_Galery.exe.config
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery\Foto_Galery\bin\Debug\Foto_Galery.exe
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery\Foto_Galery\bin\Debug\Foto_Galery.pdb
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery\Foto_Galery\obj\Debug\Foto_Galery.csprojResolveAssemblyReference.cache
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery\Foto_Galery\obj\Debug\MainWindow.baml
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery\Foto_Galery\obj\Debug\MainWindow.g.cs
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery\Foto_Galery\obj\Debug\App.g.cs
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery\Foto_Galery\obj\Debug\Foto_Galery_MarkupCompile.cache
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery\Foto_Galery\obj\Debug\Foto_Galery.g.resources
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery\Foto_Galery\obj\Debug\Foto_Galery.Properties.Resources.resources
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery\Foto_Galery\obj\Debug\Foto_Galery.csproj.GenerateResource.Cache
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery\Foto_Galery\obj\Debug\Foto_Galery.exe
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery\Foto_Galery\obj\Debug\Foto_Galery.pdb
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия\Foto_Galery\bin\Debug\Foto_Galery.exe.config
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия\Foto_Galery\obj\Debug\Foto_Galery.exe
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия\Foto_Galery\obj\Debug\Foto_Galery.pdb
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\bin\Debug\Foto_Galery.exe.config
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\obj\Debug\Foto_Galery.exe
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\obj\Debug\Foto_Galery.pdb
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\bin\Debug\Foto_Galery.exe
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\bin\Debug\Foto_Galery.pdb
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\obj\Debug\Foto_Galery.csprojResolveAssemblyReference.cache
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\obj\Debug\MainWindow.baml
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\obj\Debug\Page1.baml
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\obj\Debug\MainWindow.g.cs
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\obj\Debug\Page1.g.cs
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\obj\Debug\App.g.cs
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\obj\Debug\Foto_Galery_MarkupCompile.cache
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\obj\Debug\Foto_Galery.g.resources
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\obj\Debug\Foto_Galery.Properties.Resources.resources
+C:\Users\Maxim Vugnyavuy\Desktop\Foto_Galery — копия — копия\Foto_Galery\obj\Debug\Foto_Galery.csproj.GenerateResource.Cache
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\bin\Debug\Foto_Galery.exe.config
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\obj\Debug\Foto_Galery.exe
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\obj\Debug\Foto_Galery.pdb
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\bin\Debug\Foto_Galery.exe
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\bin\Debug\Foto_Galery.pdb
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\obj\Debug\Foto_Galery.csprojResolveAssemblyReference.cache
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\obj\Debug\MainWindow.baml
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\obj\Debug\Page1.baml
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\obj\Debug\Page3.baml
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\obj\Debug\MainWindow.g.cs
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\obj\Debug\Page1.g.cs
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\obj\Debug\Page3.g.cs
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\obj\Debug\App.g.cs
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\obj\Debug\Foto_Galery_MarkupCompile.cache
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\obj\Debug\Foto_Galery.g.resources
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\obj\Debug\Foto_Galery.Properties.Resources.resources
+C:\Users\Maxim Vugnyavuy\Desktop\Kazak\Foto_Galery\obj\Debug\Foto_Galery.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Kazak\Foto_Galery\bin\Debug\Foto_Galery.exe.config
+C:\Users\User\Desktop\Kazak\Foto_Galery\obj\Debug\Foto_Galery.exe
+C:\Users\User\Desktop\Kazak\Foto_Galery\obj\Debug\Foto_Galery.pdb
+C:\Users\User\Desktop\Kazak\Foto_Galery\bin\Debug\Foto_Galery.exe
+C:\Users\User\Desktop\Kazak\Foto_Galery\bin\Debug\Foto_Galery.pdb
+C:\Users\User\Desktop\Kazak\Foto_Galery\obj\Debug\Foto_Galery.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Kazak\Foto_Galery\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Kazak\Foto_Galery\obj\Debug\Page1.baml
+C:\Users\User\Desktop\Kazak\Foto_Galery\obj\Debug\Page3.baml
+C:\Users\User\Desktop\Kazak\Foto_Galery\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Kazak\Foto_Galery\obj\Debug\Page1.g.cs
+C:\Users\User\Desktop\Kazak\Foto_Galery\obj\Debug\Page3.g.cs
+C:\Users\User\Desktop\Kazak\Foto_Galery\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Kazak\Foto_Galery\obj\Debug\Foto_Galery_MarkupCompile.cache
+C:\Users\User\Desktop\Kazak\Foto_Galery\obj\Debug\Foto_Galery.g.resources
+C:\Users\User\Desktop\Kazak\Foto_Galery\obj\Debug\Foto_Galery.Properties.Resources.resources
+C:\Users\User\Desktop\Kazak\Foto_Galery\obj\Debug\Foto_Galery.csproj.GenerateResource.Cache
+C:\Users\777\Documents\Kazak\Foto_Galery\bin\Debug\Foto_Galery.exe.config
+C:\Users\777\Documents\Kazak\Foto_Galery\obj\Debug\Foto_Galery.exe
+C:\Users\777\Documents\Kazak\Foto_Galery\obj\Debug\Foto_Galery.pdb
